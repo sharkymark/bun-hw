@@ -1,0 +1,13 @@
+{
+    "name": "Bun dev environment",
+    "image": "oven/bun",
+    "customizations": {
+      "vscode": {
+        "extensions": [
+          "oven.bun-vscode"
+        ]
+      }
+    },
+    "postStartCommand": "bun --version"
+  }
+  
