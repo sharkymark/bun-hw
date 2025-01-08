@@ -8,6 +8,7 @@
         ]
       }
     },
-    "postStartCommand": "bun --version"
+    "forwardPorts": [3000],
+    "postStartCommand": "bun --version && bun run start"
   }
   
