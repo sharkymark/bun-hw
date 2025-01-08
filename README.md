@@ -58,7 +58,9 @@ index.ts
 ```bash
 bun run index.ts
 ```
+
 or
+
 ```bash
 bun index.ts
 ```
