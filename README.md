@@ -13,6 +13,7 @@ written in Zig
 ## Resources
 
 [Bun's GitHub repo](https://github.com/oven-sh/bun)
+
 [Bun docs](https://bun.sh/docs)
 
 ## Features
