@@ -86,13 +86,13 @@ package.json
     "@types/bun": "^1.0.0"
   }
 }
-```bash
-
-then
+```
 
 ```bash
 bun run start
 ```
+
+> note `start` is the script name in package.json
 
 ## install typescript definitions
 
